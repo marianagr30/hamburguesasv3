@@ -1,0 +1,16 @@
+{
+    "name": "hp/hamburguesasv3",
+    "description": "Proyecto hamburguesas v3",
+    "authors": [
+        {
+            "name": "marianagr30",
+            "email": "71708668+marianagr30@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.12",
+        "illuminate/events": "^8.12",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2"
+    }
+}
